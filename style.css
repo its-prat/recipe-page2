@@ -50,11 +50,16 @@
 }
 
 .innerDivSecond {
-    padding: 0% 20% 0% 5%;
+    
     font-weight: 400;
     font-family: 'Outfit', sans-serif;
     font-size: 16px;
     color: hsl(24, 5%, 18%);
+    width: 100%;
+}
+.xaq{
+    
+    width: 100%;
 }
 
 .innerDivSecond h4 {
@@ -62,7 +67,7 @@
 }
 
 .innerDivSecond ul {
-    padding: 3% 20% 0% 5%;
+    margin-left: 10px 
    
 }
 
@@ -71,7 +76,7 @@
 }
 
 .innerDivSecond ul li {
-    padding: 3% 20% 0% 5%;
+    
     font-weight: 400;
     font-family: 'Outfit', sans-serif;
 }
@@ -94,12 +99,12 @@
 }
 
 .innerDivThird ul {
-    padding: 3% 20% 0% 5%;
+    margin-left: 10px
    
 }
 
 .innerDivThird ul li {
-    padding: 3% 0% 0% 5%;
+    margin-left: 10px;
     
     font-family: 'Outfit', sans-serif;
 }
