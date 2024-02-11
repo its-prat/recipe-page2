@@ -8,7 +8,7 @@ The designs were created to the following widths:
 - Desktop: 1440px
 
 ## Colors
-
+- text color
 ### Primary
 
 - Nutmeg: hsl(14, 45%, 36%)

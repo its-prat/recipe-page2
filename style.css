@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    padding: 3% 15% 0% 15%;
+    height: 1500px;
+    width: 100%;
+
+    background-color: pink;
+}
+
+.atf {
+    height: fit-content;
+    width: 100%;
+    background-color: white;
+    border-radius: 20px 20px 0px 0px;
+    padding-bottom: 5%;
+
+}
+
+.hero img {
+    height: 100%;
+    width: 100%;
+    padding: 3% 5% 0% 5%;
+}
+
+.mainHeading {
+    font-family: 'Young Serif', serif;
+    padding: 3% 5% 0% 5%;
+    font-weight: 400;
+}
+
+.heroText {
+    font-weight: 400;
+    font-family: 'Outfit', sans-serif;
+    padding: 3% 5% 0% 5%;
+    font-size: 16px;
+    color: hsl(24, 5%, 18%);
+}
+
+
+.secondRow {
+    height: fit-content;
+    width: 100%;
+    background-color: white;
+    padding: 0% 20% 5% 5%;
+}
+
+.innerDivSecond {
+    padding: 0% 20% 0% 5%;
+    font-weight: 400;
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    color: hsl(24, 5%, 18%);
+}
+
+.innerDivSecond h4 {
+    color: hsl(332, 51%, 32%);
+}
+
+.innerDivSecond ul {
+    padding: 3% 20% 0% 5%;
+    min-width: 300px;
+}
+
+.innerDivSecond ul li span {
+    color: hsl(30, 10%, 34%);
+}
+
+.innerDivSecond ul li {
+    padding: 3% 20% 0% 5%;
+    font-weight: 400;
+    font-family: 'Outfit', sans-serif;
+}
+
+.thirdRow {
+    height: fit-content;
+    width: 100%;
+    background-color: white;
+    padding: 0% 20% 5% 5%;
+}
+.innerDivThird {
+    font-weight: 400;
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    color: hsl(24, 5%, 18%);
+    min-width: 400px;
+}
+.innerDivSecond h1 {
+    color: hsl(332, 51%, 32%);
+}
+
+.innerDivThird ul {
+    padding: 3% 20% 0% 5%;
+    min-width: 300px;
+}
+
+.innerDivThird ul li {
+    padding: 3% 0% 0% 5%;
+    font-weight: 400;
+    font-family: 'Outfit', sans-serif;
+}
