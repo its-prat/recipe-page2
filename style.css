@@ -72,7 +72,7 @@
 }
 
 .innerDivSecond ul li span {
-    color: hsl(30, 10%, 34%);
+    color: hsl(24, 5%, 18%);
 }
 
 .innerDivSecond ul li {
@@ -91,11 +91,11 @@
     font-weight: 400;
     font-family: 'Outfit', sans-serif;
     font-size: 16px;
-    color: hsl(24, 5%, 18%);
+    
     
 }
-.innerDivSecond h1 {
-    color: hsl(332, 51%, 32%);
+.innerDivThird h2 {
+    color: hsl(14, 45%, 36%);
 }
 
 .innerDivThird ul {
